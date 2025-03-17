@@ -16,7 +16,8 @@
   <h3 style="margin: 16px 0">🌍 Visitor Count</h3>
   <div style="display: flex; align-items: center; gap: 12px; justify-content: center;">
     <img height="28px" src="https://profile-counter.glitch.me/zqr10159/count.svg" alt="Visitor counter"/>
-    <span style="font-size: 18px; font-weight: 600; color: #2f74c0">Awesome Visitors and Counting!</span>
+    <span style="font-size: 18px; font-weight: bold; color: #2f74c0"></span>
+      <h3 style="margin: 16px 0">Awesome Visitors and Counting!</h3>
   </div>
 </div>
 
