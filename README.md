@@ -105,7 +105,7 @@
 <div align="center">
   <h3>📊 GitHub Analytics</h3>
   <div style="display: flex; flex-wrap: wrap; gap: 32px; justify-content: center; margin: 24px 0">
-    <img src="https://github-readme-stats.vercel.app/api?username=zqr10159&show_icons=true&theme=merko&hide_border=true&include_all_commits=true" alt="Stats" height="165">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zqr10159&layout=compact&theme=merko&hide_border=true" alt="Top Langs" height="165">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zqr10159&show_icons=true&locale=en&layout=compact" alt="Stats" height="165">
+    <img src="https://github-readme-stats.vercel.app/api?username=zqr10159&show_icons=true&locale=en" alt="Top Langs" height="165">
   </div>
 </div>
