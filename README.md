@@ -29,10 +29,6 @@
   <div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
     <a href="https://www.java.com" target="_blank" title="Java">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
-    </a>
-    <a href="https://kotlinlang.org" target="_blank" title="Kotlin">
-      <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40" height="40" alt="Kotlin" style="transition: transform 0.2s;">
-    </a>
     <a href="https://www.python.org" target="_blank" title="Python">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" style="transition: transform 0.2s;">
     </a>
@@ -71,32 +67,6 @@
     </a>
     <a href="https://www.oracle.com/" target="_blank" title="Oracle">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" height="40" alt="Oracle">
-    </a>
-  </div>
-
-  <!-- 运维工具 -->
-  <div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
-    <a href="https://www.docker.com/" target="_blank" title="Docker">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="Docker">
-    </a>
-    <a href="https://www.elastic.co" target="_blank" title="Elasticsearch">
-      <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" width="40" height="40" alt="Elasticsearch">
-    </a>
-    <a href="https://grafana.com" target="_blank" title="Grafana">
-      <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" height="40" alt="Grafana">
-    </a>
-    <a href="https://www.elastic.co/kibana" target="_blank" title="Kibana">
-      <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" width="40" height="40" alt="Kibana">
-    </a>
-  </div>
-
-  <!-- 测试工具 -->
-  <div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
-    <a href="https://www.selenium.dev" target="_blank" title="Selenium">
-      <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" width="40" height="40" alt="Selenium">
-    </a>
-    <a href="https://postman.com" target="_blank" title="Postman">
-      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" alt="Postman">
     </a>
   </div>
 </div>
