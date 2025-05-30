@@ -53,21 +53,6 @@
       <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="40" height="40" alt="Kafka">
     </a>
   </div>
-
-  <!-- 数据库 -->
-  <div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
-    <a href="https://www.mysql.com/" target="_blank" title="MySQL">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL">
-    </a>
-    <a href="https://www.postgresql.org" target="_blank" title="PostgreSQL">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" alt="PostgreSQL">
-    </a>
-    <a href="https://redis.io" target="_blank" title="Redis">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40" height="40" alt="Redis">
-    </a>
-    <a href="https://www.oracle.com/" target="_blank" title="Oracle">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" height="40" alt="Oracle">
-    </a>
   </div>
 </div>
 
