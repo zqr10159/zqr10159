@@ -3,7 +3,7 @@
 
 <div align="center">
   <a href="https://github.com/apache/hertzbeat" target="_blank">
-    <img src="https://img.shields.io/badge/Working_On-Apache_HertzBeat(incubating)-2EA44F?style=flat&logo=apache" alt="HertzBeat">
+    <img src="https://img.shields.io/badge/Working_On-Apache_HertzBeat-2EA44F?style=flat&logo=apache" alt="HertzBeat">
   </a>
   <a href="mailto:zhaoqingran@apache.org">
     <img src="https://img.shields.io/badge/Contact-EMAIL-0078D4?style=flat&logo=protonmail" alt="Email">
