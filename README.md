@@ -18,14 +18,6 @@
 
 <br>
 
-<div align="center">
-  <h3 style="margin: 16px 0">🌍 Visitor Count</h3>
-  <div style="display: flex; align-items: center; gap: 12px; justify-content: center;">
-    <img height="28px" src="https://profile-counter.glitch.me/zqr10159/count.svg" alt="Visitor counter"/>
-    <span style="font-size: 18px; font-weight: bold; color: #2f74c0"></span>
-      <h3 style="margin: 16px 0">Awesome Visitors!</h3>
-  </div>
-</div>
 
 <br>
 
@@ -64,10 +56,3 @@
 
 <br>
 
-<div align="center">
-  <h3>📊 GitHub Analytics</h3>
-  <div style="display: flex; flex-wrap: wrap; gap: 32px; justify-content: center; margin: 24px 0">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zqr10159&show_icons=true&locale=en&layout=compact" alt="Stats" height="165">
-    <img src="https://github-readme-stats.vercel.app/api?username=zqr10159&show_icons=true&locale=en" alt="Top Langs" height="165">
-  </div>
-</div>
