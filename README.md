@@ -10,13 +10,6 @@
   </a>
 </div>
 
-<br>
-
-<div align="center">
-  <p>✍️ I like to write a little something. Check out my blog: <a href="https://www.340302.xyz/" target="_blank">340302.xyz</a></p>
-</div>
-
-<br>
 
 
 <br>
